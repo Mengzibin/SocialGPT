@@ -1,1 +1,1 @@
-# GSPO-SRR
+# SocialGPT
