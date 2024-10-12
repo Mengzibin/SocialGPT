@@ -1,7 +1,7 @@
 # SocialGPT
 
 ## Overview
-SocialGPT leverages the large language model ChatGPT to extract stories and identify corresponding social relationships from image datasets. This involves working with two different datasets, PIPA and PISC, and applying long prompt optimization techniques to improve the effectiveness of story generation and relationship identification.
+SocialGPT leverages the large language model ChatGPT to extract stories and identify corresponding social relationships from image datasets. This involves working with two different datasets, PIPA and PISC, and applying long prompt optimization techniques to improve the effectiveness of prompt in  relationship identification.
 
 ### Projects
 1. **social-story-main-PIPA**: Uses ChatGPT to extract stories and identify social relationships from the PIPA dataset.
