@@ -1,4 +1,5 @@
 import os
+import argparse
 
 def reset(dir_result):
     for root,dirs,files in os.walk(os.path.join(dir_result,'caption','caption_sam')):
