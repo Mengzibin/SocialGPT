@@ -13,7 +13,7 @@ def reset(dir_result):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dir_result',default='result_try',type=str)
+    parser.add_argument('--dir_result',default='result',type=str)
     parser.add_argument('--index',default=100,type=int)
     args = parser.parse_args()
 
