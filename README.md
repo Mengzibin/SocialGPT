@@ -48,7 +48,7 @@ If you find our work useful in your research, please consider citing:
 @article{li2024SocialGPT,
   title = {SocialGPT: Prompting LLMs for Social Relation Reasoning via Greedy Segment Optimization},
   author = {Li, Wanhua and Meng, Zibin and Zhou, Jiawei and Wei, Donglai and Gan, Chuang and Pfister, Hanspeter},
-  journal = {Annual Conference on Neural Information Processing Systems},
+  journal = {Advances in Neural Information Processing Systems (NeurIPS)},
   year = {2024}
 }
 ```
