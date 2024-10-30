@@ -8,7 +8,7 @@ SocialGPT is a simple yet well-crafted framework, which combines the perception 
 
 ![intro](images/intro.png)
 
-[[Project Page]](https://mengzibin.github.io/SocialGPT.github.io/) [arXiv]
+[[Project Page]](https://mengzibin.github.io/SocialGPT.github.io/) [arXiv](https://arxiv.org/pdf/2410.21411)
 
 ## Installation
 
