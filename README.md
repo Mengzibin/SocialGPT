@@ -1,4 +1,5 @@
 # SocialGPT: Prompting LLMs for Social Relation Reasoning via Greedy Segment Optimization
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/socialgpt-prompting-llms-for-social-relation/visual-social-relationship-recognition-on-1)](https://paperswithcode.com/sota/visual-social-relationship-recognition-on-1?p=socialgpt-prompting-llms-for-social-relation)
 
 Created by [Wanhua Li](https://li-wanhua.github.io/)\*, [Zibin Meng](https://scholar.google.com/citations?hl=en&user=_n5g8KUAAAAJ)\*, [Jiawei Zhou](https://sites.harvard.edu/jzhou/), [Donglai Wei](https://donglaiw.github.io/), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister)
 
